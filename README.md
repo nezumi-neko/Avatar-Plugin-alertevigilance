@@ -4,7 +4,7 @@ Ce plugin est un add-on pour le framework [A.V.A.T.A.R.](https://github.com/Spik
 
 Ce plugin recherche si une Alerte intempérie est trouvé pour le code postal indiqué dans le fichier ".prop".
 
-###Installation :
+### Installation :
 
 **Installation Manuelle :
 
@@ -16,19 +16,18 @@ Ce plugin recherche si une Alerte intempérie est trouvé pour le code postal in
 - Passer par la bibliothèque d'Aavatar pour télécharger le plugin.
 
 
-###Fonctionnement du plugin :
+### Fonctionnement du plugin :
 
 Ce plugin recherche si une Alerte intempérie est trouvé pour le code postal indiqué dans le fichier ".prop".
 
 Vous devrez donc entrer votre code postal dans le fichier ".prop" --> "num_departement".
 
 La recherche se fait sur le site suivant :
-
 http://alerte.vigilance-meteo.fr
 
 
 
-###Ateur du Plugin :
+### Auteur du Plugin :
 
 Je ne suis pas l'auteur de se plugin, il a été créer par un utilisateur d'Avatar.
 
