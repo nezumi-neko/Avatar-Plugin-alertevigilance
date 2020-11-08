@@ -1,0 +1,19 @@
+{
+	"modules": { 
+		"alertevigilance": {
+			"version": "1.0",
+			"name": "alertevigilance",
+			"num_departement" : "93100",
+			"tts": {
+				"Salon": "voici les alerte vigilance ",
+				"Cuisine": "voici les alerte vigilance"
+			},
+			"clients": {
+				"Salon": 60,
+				"Cuisine": 50
+			},
+			"rules": ["vigilance"]
+		}
+	}
+}
+			
