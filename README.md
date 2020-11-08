@@ -20,7 +20,8 @@ Ce plugin recherche si une Alerte intempérie est trouvé pour le code postal in
 
 Ce plugin recherche si une Alerte intempérie est trouvé pour le code postal indiqué dans le fichier ".prop".
 Vous devrez donc entrer votre code postal dans le fichier ".prop" --> "num_departement".
-
+La recherche se fait sur le site suivant :
+http://alerte.vigilance-meteo.fr
 
 
 
